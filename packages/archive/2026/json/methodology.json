@@ -18,14 +18,14 @@
         "series": null,
         "response": "25-34 years old",
         "count": 9267,
-        "pct": 0.2999
+        "pct": 0.3
       },
       {
         "slice": 0,
         "series": null,
         "response": "35-44 years old",
         "count": 8522,
-        "pct": 0.2758
+        "pct": 0.276
       },
       {
         "slice": 0,
@@ -39,35 +39,35 @@
         "series": null,
         "response": "45-54 years old",
         "count": 4198,
-        "pct": 0.1358
+        "pct": 0.136
       },
       {
         "slice": 0,
         "series": null,
         "response": "55-64 years old",
         "count": 1829,
-        "pct": 0.0592
+        "pct": 0.059
       },
       {
         "slice": 0,
         "series": null,
         "response": "Under 18 years old",
         "count": 969,
-        "pct": 0.0314
+        "pct": 0.031
       },
       {
         "slice": 0,
         "series": null,
         "response": "65 years or older",
         "count": 822,
-        "pct": 0.0266
+        "pct": 0.027
       },
       {
         "slice": 0,
         "series": null,
         "response": "Prefer not to say",
         "count": 352,
-        "pct": 0.0114
+        "pct": 0.011
       }
     ]
   },
@@ -90,21 +90,21 @@
         "series": null,
         "response": "Too long",
         "count": 9399,
-        "pct": 0.6551
+        "pct": 0.655
       },
       {
         "slice": 0,
         "series": null,
         "response": "Appropriate in length",
         "count": 5026,
-        "pct": 0.3503
+        "pct": 0.35
       },
       {
         "slice": 0,
         "series": null,
         "response": "Too short",
         "count": 250,
-        "pct": 0.0174
+        "pct": 0.017
       }
     ]
   },
@@ -127,21 +127,21 @@
         "series": null,
         "response": "Neither easy nor difficult",
         "count": 8060,
-        "pct": 0.5581
+        "pct": 0.558
       },
       {
         "slice": 0,
         "series": null,
         "response": "Easy",
         "count": 4459,
-        "pct": 0.3088
+        "pct": 0.309
       },
       {
         "slice": 0,
         "series": null,
         "response": "Difficult",
         "count": 2212,
-        "pct": 0.1532
+        "pct": 0.153
       }
     ]
   },
@@ -164,14 +164,14 @@
         "series": null,
         "response": "I agree",
         "count": 30893,
-        "pct": 0.9999
+        "pct": 1
       },
       {
         "slice": 0,
         "series": null,
         "response": "I do not agree (selecting this will end the survey)",
         "count": 3,
-        "pct": 0.0001
+        "pct": 0
       }
     ]
   },
