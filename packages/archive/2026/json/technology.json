@@ -108,7 +108,7 @@
         {
           "slice_type": "all",
           "slice_value": "All Respondents",
-          "n": 15245
+          "n": 13338
         }
       ]
     },
@@ -118,42 +118,35 @@
         "series": null,
         "response": "Small scripts/automations",
         "count": 10304,
-        "pct": 0.676
+        "pct": 0.773
       },
       {
         "slice": 0,
         "series": null,
         "response": "Team-level internal tools",
         "count": 8398,
-        "pct": 0.551
+        "pct": 0.63
       },
       {
         "slice": 0,
         "series": null,
         "response": "Customer-facing products",
         "count": 7254,
-        "pct": 0.476
+        "pct": 0.544
       },
       {
         "slice": 0,
         "series": null,
         "response": "Cross-team/platform tools",
         "count": 6130,
-        "pct": 0.402
+        "pct": 0.46
       },
       {
         "slice": 0,
         "series": null,
         "response": "Replacing paid vendors",
         "count": 2482,
-        "pct": 0.163
-      },
-      {
-        "slice": 0,
-        "series": null,
-        "response": "None",
-        "count": 1949,
-        "pct": 0.128
+        "pct": 0.186
       }
     ]
   },
